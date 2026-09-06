@@ -1,7 +1,7 @@
 # z0d1ak CTF 2026 — Get Zucked
 
 **Solved by:** ftps3rver
-**Category:** OSINT | **Difficulty:** Hard | **Points:** 500 | **Solves:** 1 | **Author:** ant1v3n0m
+**Category:** OSINT | **Points:** 500 | **Solves:** 1 | **Author:** ant1v3n0m
 
 ---
 
