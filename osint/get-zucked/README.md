@@ -1,6 +1,6 @@
 # z0d1ak CTF 2026 — Get Zucked
 
-**Solved by:** _\<isi handle CTF kamu\>_
+**Solved by:** ftps3rver
 **Category:** OSINT | **Difficulty:** Hard | **Points:** 500 | **Solves:** 1 | **Author:** ant1v3n0m
 
 ---
