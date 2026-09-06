@@ -2,7 +2,6 @@
 
 **Solved by:** ftps3rver  
 **Category:** Cryptography  
-**Difficulty:** Medium  
 **Points:** 216  
 **Solves:** 30  
 **Author:** TitanCode
