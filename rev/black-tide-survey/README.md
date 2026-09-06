@@ -178,7 +178,7 @@ This challenge is really three separate, independently-checkable reverse-enginee
 ## 8. Answer
 
 ```
-Sable_54_T3l0
+zdk{Sable_54_T3l0}
 ```
 
 (the fourth character before the final `0` is a **lowercase L**, verified pixel-for-pixel against other `l` glyphs in the same caption — not the digit `1`)
