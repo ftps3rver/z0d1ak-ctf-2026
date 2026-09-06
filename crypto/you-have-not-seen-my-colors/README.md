@@ -1,6 +1,6 @@
 # z0d1ak CTF 2026 — You Have Not Seen My Colors
 
-**Solved by:** _\<isi handle CTF kamu\>_
+**Solved by:** ftps3rver
 **Category:** Cryptography | **Points:** 415 | **Solves:** 5 | **Author:** TitanCode
 
 ---
